@@ -1,4 +1,4 @@
-import { getConnection, connectToDatabase, testarConexao } from "./db"
+import { getConnection, connectToDatabase, testarConexao } from "./database/db"
 
 const run = async () => {
     try {

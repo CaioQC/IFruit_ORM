@@ -1,4 +1,4 @@
-import promptSync from "prompt-sync";
+import * as promptSync from "prompt-sync";
 import { MenuProdutoOpcoes } from "./enums/MenuProdutosOpcoes";
 import { MenuOpcoes } from "./enums/MenuOpcoes";
 import { Produto } from "./interfaces/Produto";
